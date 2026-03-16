@@ -1,6 +1,7 @@
 # Auto-Ai-Internship-Apllier
 This project automatically generates and sends personalized internship application emails based on data stored in Google Sheets.
-
+ 
+ #Demo Video watch Here-> 
 
 🚀 Personal AI Internship Applier
     � � � � �
@@ -9,8 +10,7 @@ This project automatically generates and sends personalized internship applicati
 
 📖 Overview
   1.Personal AI Internship Applier is a scalable automation workflow designed to eliminate repetitive manual effort in internship applications.
-  2.The system automatically:
-  3.Reads applicant data from Google Sheets
+  2.The system automatically Reads applicant data from Google Sheets
   4.Generates professional email content using AI
   5.Sends structured, ready-to-use emails via Gmail
   6.This project demonstrates real-world integration of AI with workflow orchestration and API-based automation.
